@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently in my 3rd Year at University of Herfordshire for my **Data science Degree**
 
-- 📫 How to reach me **KabeyaJeremiah7&@Gmail.com**
+- 📫 How to reach me **KabeyaJeremiah7@Gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
