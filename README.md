@@ -1,6 +1,6 @@
 # weather-prediction-project
 <h1 align="center">Hi 👋, I'm Jeremiah Kabeya</h1>
-<h3 align="center">A passionate DataScientist student from the United Kingdom</h3>
+<h3 align="center">A passionate DataScience student from the United Kingdom</h3>
 
 - 🔭 I’m currently working on **Weather Prediction Analysis**
 
