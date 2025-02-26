@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Weather Prediction Analysis**
 
-- 🌱 I’m currently in my 3rd Year for **Data science Degree**
+- 🌱 I’m currently in my 3rd Year at University of Herfordshire for my **Data science Degree**
 
 - 📫 How to reach me **KabeyaJeremiah7&@Gmail.com**
 
