@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Weather Prediction Analysis**
 
-- Will update this soon once completed!
+-   Will update this soon once completed!
 
 - 🌱 I’m currently in my 3rd Year at University of Herfordshire for my **Data science Degree**
 
